@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(149, 180, 221);
+  background-image: url("assets/ground.jpeg");
+}
+ul {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  justify-content: space-evenly;
+}
+ul li {
+  list-style: none;
+}
+header {
+  font-weight: bolder;
+  font-size: 150%;
+  background-color: rgb(0, 46, 65);
+}
+nav a {
+  color: rgb(189, 231, 231);
+}
+#Contacter {
+  font-weight: bolder;
+  font-size: 50px;
+  justify-content: center;
+  color: black;
+  text-decoration: underline;
+  font-style: italic;
+  text-align: center;
+  font-family: "Playball", cursive;
+}
+.ContactUs {
+  display: flex;
+  flex-direction: initial;
+  font-size: 20px;
+  text-align: center;
+  font-style: normal;
+  font-family: "Merienda", cursive;
+}
+#contact {
+  width: 200px;
+  height: 200px;
+}
+#contactform {
+  display: flex;
+  justify-content: center;
+}
+#message {
+  padding-block: 20px;
+}

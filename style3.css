@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(149, 180, 221);
+}
+ul {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  justify-content: space-evenly;
+}
+ul li {
+  list-style: none;
+}
+header {
+  font-weight: bolder;
+  font-size: 150%;
+  background-color: rgb(0, 46, 65);
+}
+nav a {
+  color: rgb(189, 231, 231);
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+table,
+caption,
+th,
+td {
+  border: 3px solid rgb(6, 44, 59);
+  border-collapse: collapse;
+  display: flex;
+  justify-content: center;
+}
+caption,
+th,
+td {
+  padding: 20px;
+}
+#infotableau {
+  font-size: bolder;
+  font-family: "Merienda", cursive;
+  font-size: 25px;
+}
+.introtableau {
+  font-size: bolder;
+  font-size: 50px;
+  text-decoration: underline;
+  font-family: "Playball", cursive;
+  text-align: center;
+}

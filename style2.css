@@ -1,0 +1,57 @@
+body {
+  background-color: rgba(149, 180, 221);
+}
+ul {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  justify-content: space-evenly;
+}
+ul li {
+  list-style: none;
+}
+header {
+  font-weight: bolder;
+  font-size: 150%;
+  background-color: rgb(0, 46, 65);
+}
+nav a {
+  color: rgb(189, 231, 231);
+}
+img {
+  width: 300px;
+  height: 300px;
+}
+#présentation {
+  font-size: bolder;
+  font-style: italic;
+  text-align: center;
+  font-size: 70px;
+  font-family: "Playball", cursive;
+}
+.conteneur1 {
+  display: flex;
+  justify-content: space-around;
+}
+.conteneur2 {
+  display: flex;
+  justify-content: space-around;
+}
+.element1 {
+  font-size: 50px;
+  text-align: center;
+  font-family: "Playball", cursive;
+  text-decoration: underline;
+}
+.element2 {
+  font-size: 50px;
+  text-align: center;
+  font-family: "Playball", cursive;
+  text-decoration: underline;
+}
+.element3 {
+  font-size: 50px;
+  text-align: center;
+  font-family: "Playball", cursive;
+  text-decoration: underline;
+}
